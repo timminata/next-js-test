@@ -36,7 +36,18 @@ const FirstPost = (props) => {
     </>);
 };
 
-export async function getStaticProps(context) {
+export async function getServerSideProps(context) {
+  const url = 'http://worldtimeapi.org/api/timezone/Africa/Johannesburg';
+  const result = await fetch(url);
+  const timeData = await result.json();
+  //const res = await fetch('https://phoenix.whereismytransport.com/api/build');
+  //const data = await res.json();
+  return {
+    props: {data: {name: 'Pheono'}, timeData: timeData, url} // will be passed to the page component as props
+  }
+}
+
+/*export async function getStaticProps(context) {
   const url = 'http://worldtimeapi.org/api/timezone/Africa/Johannesburg';
   const result = await fetch(url);
   const timeData = await result.json();
@@ -45,6 +56,6 @@ export async function getStaticProps(context) {
     return {
       props: {data: {name: 'Pheono'}, timeData: timeData, url} // will be passed to the page component as props
     }
-  }
+  }*/
 
 export default FirstPost;
