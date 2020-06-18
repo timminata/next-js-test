@@ -60,7 +60,7 @@ const Line = (props) => {
         <meta property="og:title" content="TAPI Data" />
         <meta property="og:url" content={`http://trewartha.za.net/lines/${id}`} />
         <meta property="og:description" content="This is meow"></meta>
-        <meta property="og:image" content="//cdn.example.com/uploads/images/webpage_300x200.png"></meta>
+        <meta property="og:image" content="https://pbs.twimg.com/profile_images/765843200691019776/WB3R_p3__400x400.jpg"></meta>
       </Head>
     <p>TAPI Line: {id}</p>
     <p>TAPI Line Name: {props.line.name}</p>
