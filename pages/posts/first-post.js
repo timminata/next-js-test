@@ -2,6 +2,8 @@ import {useEffect, useState} from 'react';
 import Link from 'next/link'
 import fetch from 'node-fetch'
 
+const cache = {};
+
 const FirstPost = (props) => {
     const data = props.data;
     console.log(data);

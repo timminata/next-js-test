@@ -9,18 +9,23 @@ export default function Home({ allPostsData }) {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      
+      
+
 
       <section >
         <h2 >Blog</h2>
         <ul>
           {allPostsData.map(({ id, date, title }) => (
             <li key={id}>
-              {title}
-              <br />
-              {id}
-              <br />
-              {date}
-            </li>
+            <Link href="/posts/[id]" as={`/posts/${id}`}>
+              <a>{title}</a>
+            </Link>
+            <br />
+            <small>
+              <Date dateString={date} />
+            </small>
+          </li>
           ))}
         </ul>
       </section>
