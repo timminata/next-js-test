@@ -6,7 +6,7 @@ const cache = {};
 
 const FirstPost = (props) => {
     const data = props.data;
-    console.log(data);
+    //console.log(data);
 
     const [counter, setCounter] = useState(0);
     const [text, setText] = useState('');
@@ -14,7 +14,7 @@ const FirstPost = (props) => {
         fetch('https://phoenix.whereismytransport.com/api/build').
             then(response => response.json()).
             then(data => {
-                console.log(data);
+                //console.log(data);
                 setText(data.version);
             });
     },[])

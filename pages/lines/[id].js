@@ -2,6 +2,7 @@ import { useRouter } from 'next/router'
 import fetch from 'node-fetch'
 import axios from 'axios';
 import * as querystring from 'querystring';
+import Head from 'next/head';
 
 let tapiToken = null;
 
@@ -50,7 +51,17 @@ const Line = (props) => {
   const { id, pid } = router.query
 
   return (
+
     <>
+        <Head>
+        <title>{props.line.name.substring(0,65)}</title>
+        <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Your one stop shop for transport data!"></meta>
+        <meta property="og:title" content="TAPI Data" />
+        <meta property="og:url" content={`http://trewartha.za.net/lines/${id}`} />
+        <meta property="og:description" content="This is meow"></meta>
+        <meta property="og:image" content="//cdn.example.com/uploads/images/webpage_300x200.png"></meta>
+      </Head>
     <p>TAPI Line: {id}</p>
     <p>TAPI Line Name: {props.line.name}</p>
     <p>Device ID: {pid}</p>
