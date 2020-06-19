@@ -1,0 +1,1508 @@
+[
+    {
+      "id": "0n9pQVWMLESAP6u1AIhqvQ",
+      "href": "https://platform.whereismytransport.com/api/lines/0n9pQVWMLESAP6u1AIhqvQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "18 de Marzo - Av. de Los Fresnos",
+      "description": "88",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "2-6cl7XMCUOLp6u1AIhq3Q",
+      "href": "https://platform.whereismytransport.com/api/lines/2-6cl7XMCUOLp6u1AIhq3Q",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "18 de Marzo - Izcalli Piramide",
+      "description": "88",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "zHV-jVWCp0a3Dau1AIhq4g",
+      "href": "https://platform.whereismytransport.com/api/lines/zHV-jVWCp0a3Dau1AIhq4g",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "18 de Marzo - Lázaro Cardenas 2a",
+      "description": "18",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "t0-qcuHek0KYNKu1AIhq9Q",
+      "href": "https://platform.whereismytransport.com/api/lines/t0-qcuHek0KYNKu1AIhq9Q",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "18 de Marzo - Unidad Tenayo",
+      "description": "88",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "d1UAkG21j0-Iu6u1AIhq_A",
+      "href": "https://platform.whereismytransport.com/api/lines/d1UAkG21j0-Iu6u1AIhq_A",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "1ro de Septiembre - Tlalnepantla",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "N7SuLrf3fkmrE6u4AXwxJA",
+      "href": "https://platform.whereismytransport.com/api/lines/N7SuLrf3fkmrE6u4AXwxJA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Alameda Oriente - Xochimilco/Bosque De Nativitas",
+      "shortName": "47-A-X",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "0kDbDUwCCk6R1au4AXwv0w",
+      "href": "https://platform.whereismytransport.com/api/lines/0kDbDUwCCk6R1au4AXwv0w",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Alameda Oriente - Xochimilco/Bosque De Nativitas (Nochebus)",
+      "shortName": "47-A",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "v6-43gybIkuXFKu4AXwwLg",
+      "href": "https://platform.whereismytransport.com/api/lines/v6-43gybIkuXFKu4AXwwLg",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Ampliación Jalalpa - Metro Tacubaya",
+      "shortName": "112",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "1BcVGes9V0ig4au4AXwwcQ",
+      "href": "https://platform.whereismytransport.com/api/lines/1BcVGes9V0ig4au4AXwwcQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Ampliación Malacates - La Villa/Ferroplaza",
+      "shortName": "101-A",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "TXnFHCED8Ee6Lqu4AXwvpQ",
+      "href": "https://platform.whereismytransport.com/api/lines/TXnFHCED8Ee6Lqu4AXwvpQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Ampliación Malacates - Metro La Raza",
+      "shortName": "103",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "xxsM7TvkBEuF76u4AXwwCw",
+      "href": "https://platform.whereismytransport.com/api/lines/xxsM7TvkBEuF76u4AXwwCw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Ampliación Santiago - Metro Constitución De 1917",
+      "shortName": "161",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "O38GrD4mlUmKhau4AXwvWg",
+      "href": "https://platform.whereismytransport.com/api/lines/O38GrD4mlUmKhau4AXwvWg",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Ampliación Tepeaca - Metro Mixcoac",
+      "shortName": "124-A",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "Bnhhi8hGM0Kfh6u4AXwwbw",
+      "href": "https://platform.whereismytransport.com/api/lines/Bnhhi8hGM0Kfh6u4AXwwbw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Aragón - Metro Chapultepec Por Av. 604",
+      "shortName": "11-A",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "GxeG4iUOfkSpTau4AXwxKQ",
+      "href": "https://platform.whereismytransport.com/api/lines/GxeG4iUOfkSpTau4AXwxKQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Aragón - Metro Chapultepec Por Av. 604 (Nochebus)",
+      "shortName": "11-A",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "_QJgYcet00-KMau4AXwv2g",
+      "href": "https://platform.whereismytransport.com/api/lines/_QJgYcet00-KMau4AXwv2g",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Aragón - Metro Chapultepec Por La Villa",
+      "shortName": "11",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "UY42KxjgJ0GgZau4AXww7g",
+      "href": "https://platform.whereismytransport.com/api/lines/UY42KxjgJ0GgZau4AXww7g",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Aragón - Panteón San Isidro",
+      "shortName": "12",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "XpxTtjgxHUmy2au4AXwwbA",
+      "href": "https://platform.whereismytransport.com/api/lines/XpxTtjgxHUmy2au4AXwwbA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Aragón - Panteón San Isidro",
+      "shortName": "12-X",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "5zYPttbmZ0-D6Ku4AXwv8w",
+      "href": "https://platform.whereismytransport.com/api/lines/5zYPttbmZ0-D6Ku4AXwv8w",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Arenal 4A. Sección - Metro Pantitlán",
+      "shortName": "168",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#fffeec01",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "g7N9FRh7XUKyrau4AXwvcw",
+      "href": "https://platform.whereismytransport.com/api/lines/g7N9FRh7XUKyrau4AXwvcw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Avisadero/Col. Ixtlahuacan - Metro Zaragoza/Metro Tepalcates",
+      "shortName": "166",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "4L2P5ZfBDkS8Pqu4AXwwzQ",
+      "href": "https://platform.whereismytransport.com/api/lines/4L2P5ZfBDkS8Pqu4AXwwzQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Avisadero/Col. Miravalle - Metro Zaragoza/Metro Tepalcates",
+      "shortName": "167",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "jDN7IiEIHUusL6u1AIhq_w",
+      "href": "https://platform.whereismytransport.com/api/lines/jDN7IiEIHUusL6u1AIhq_w",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Azcapotzalco - Sullivan (San Cosme)",
+      "description": "2",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Bg_CIFsCz0WdVqu4AXwwNg",
+      "href": "https://platform.whereismytransport.com/api/lines/Bg_CIFsCz0WdVqu4AXwwNg",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Barranca De Guadalupe - Metro Constitución De 1917",
+      "shortName": "161-F",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "V0OSLt8o_UOhyqu1AIhrCg",
+      "href": "https://platform.whereismytransport.com/api/lines/V0OSLt8o_UOhyqu1AIhrCg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Base de Tlalnepantla - Comunidad Reyes",
+      "description": "26",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "ia5T7ig3RUmhaau1AIhrGw",
+      "href": "https://platform.whereismytransport.com/api/lines/ia5T7ig3RUmhaau1AIhrGw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Base de Tlalnepantla - Ferrería",
+      "description": "26",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "E20mH5WQpUGC6au1AIhrJw",
+      "href": "https://platform.whereismytransport.com/api/lines/E20mH5WQpUGC6au1AIhrJw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Base de Tlalnepantla - Quebrada",
+      "description": "Autobuses Tultepec",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Yph_45fktEO-L6u1AIhrNw",
+      "href": "https://platform.whereismytransport.com/api/lines/Yph_45fktEO-L6u1AIhrNw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Base de Tlalnepantla - San Pablo CTM",
+      "description": "Autobuses Tultepec",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "mpSjt45oo0Gm_qu1AIhrPQ",
+      "href": "https://platform.whereismytransport.com/api/lines/mpSjt45oo0Gm_qu1AIhrPQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Base de Tlalnepantla - Zumpango",
+      "description": "Autobuses Teoloyucan Zumpango",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "xpczB0fNSU2eHKu4AXwvog",
+      "href": "https://platform.whereismytransport.com/api/lines/xpczB0fNSU2eHKu4AXwvog",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Bosques Del Pedregal - Metro Universidad Por López Portillo",
+      "shortName": "125",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffd9952c",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "FOYpjII0F0ilZqu1AIhrQA",
+      "href": "https://platform.whereismytransport.com/api/lines/FOYpjII0F0ilZqu1AIhrQA",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Boulevard Puerto Aéreo - Rosario",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "43Lf6vA4NUq4h6u4AWoEmQ",
+      "href": "https://platform.whereismytransport.com/api/lines/43Lf6vA4NUq4h6u4AWoEmQ",
+      "agency": {
+        "id": "jLjibFoim0iwWau4AWoEdQ",
+        "href": "https://platform.whereismytransport.com/api/agencies/jLjibFoim0iwWau4AWoEdQ",
+        "name": "Ferrocarriles Suburbanos",
+        "culture": "es"
+      },
+      "name": "Buenavista - Cuautitlán",
+      "shortName": "1",
+      "mode": "Rail",
+      "colour": "#ffef1a1a",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "hYhU0pxLDU6sg6u4AXwvYA",
+      "href": "https://platform.whereismytransport.com/api/lines/hYhU0pxLDU6sg6u4AXwvYA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "C.C. Santa Fe - Metro Miguel Ángel De Quevedo",
+      "shortName": "34-B-X",
+      "mode": "Bus",
+      "colour": "#ffd9952c",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "G1kp6RqooEG7Nqu4AX1-hw",
+      "href": "https://platform.whereismytransport.com/api/lines/G1kp6RqooEG7Nqu4AX1-hw",
+      "agency": {
+        "id": "GewRJAw5tUmC4Ku4AX1-SQ",
+        "href": "https://platform.whereismytransport.com/api/agencies/GewRJAw5tUmC4Ku4AX1-SQ",
+        "name": "Sendero Segura",
+        "culture": "es"
+      },
+      "name": "CCH SUR",
+      "mode": "Bus",
+      "colour": "#ff90ee90",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "DJvnvclBTU2uDau4AX1-mQ",
+      "href": "https://platform.whereismytransport.com/api/lines/DJvnvclBTU2uDau4AX1-mQ",
+      "agency": {
+        "id": "GewRJAw5tUmC4Ku4AX1-SQ",
+        "href": "https://platform.whereismytransport.com/api/agencies/GewRJAw5tUmC4Ku4AX1-SQ",
+        "name": "Sendero Segura",
+        "culture": "es"
+      },
+      "name": "CCH Vallejo",
+      "mode": "Bus",
+      "colour": "#ff90ee90",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "q-CkzSUJXUuUvKu1AIhrZw",
+      "href": "https://platform.whereismytransport.com/api/lines/q-CkzSUJXUuUvKu1AIhrZw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Observatorio - Lomas de Atizapán",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "A0LjFpBUSEylxqu1AIhrcg",
+      "href": "https://platform.whereismytransport.com/api/lines/A0LjFpBUSEylxqu1AIhrcg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Observatorio - Lomas de Las Torres",
+      "description": "89",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "EH_0mOOZwECO0Ku1AIhrgQ",
+      "href": "https://platform.whereismytransport.com/api/lines/EH_0mOOZwECO0Ku1AIhrgQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Observatorio - Tlalnepantla (Aurrera)",
+      "description": "89, 25-01",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "yNySxQq4rE-5kau1AIhrhQ",
+      "href": "https://platform.whereismytransport.com/api/lines/yNySxQq4rE-5kau1AIhrhQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Pantitlán - Cuatro Caminos",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Lgn2c1oliEmdrau1AIhrjQ",
+      "href": "https://platform.whereismytransport.com/api/lines/Lgn2c1oliEmdrau1AIhrjQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM San Rafael - Bosques del Lago",
+      "description": "25",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "1ZHe_TJ7lEinDau1AIhrkQ",
+      "href": "https://platform.whereismytransport.com/api/lines/1ZHe_TJ7lEinDau1AIhrkQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Tlalnepantla - Balcones de Valle Dorado",
+      "description": "Autobuses del Noreste y Anexas",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "C-YeaYQXhkWsMKu1AIhrpQ",
+      "href": "https://platform.whereismytransport.com/api/lines/C-YeaYQXhkWsMKu1AIhrpQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Tlalnepantla - Colonia Benito Juárez",
+      "description": "5",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "QPTXuQnYdUexBKu1AIhrtA",
+      "href": "https://platform.whereismytransport.com/api/lines/QPTXuQnYdUexBKu1AIhrtA",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Tlalnepantla - Colonia Las Águilas",
+      "description": "27",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "JB2P9iK-AEinnau1AIhrtw",
+      "href": "https://platform.whereismytransport.com/api/lines/JB2P9iK-AEinnau1AIhrtw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Tlalnepantla - Paraje San Juan Diego",
+      "description": "Autotransportes Rápidos del Valle de México",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "_6zNU8IyjEitCqu1AIhrwQ",
+      "href": "https://platform.whereismytransport.com/api/lines/_6zNU8IyjEitCqu1AIhrwQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "CETRAM Tlalnepantla - Presa Madín",
+      "description": "16",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "cVYwAZ4iKkqhaKu4AXwvhQ",
+      "href": "https://platform.whereismytransport.com/api/lines/cVYwAZ4iKkqhaKu4AXwvhQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Campestre Potrero - Metro Zaragoza/Metro Tepalcates",
+      "shortName": "162-B",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "b2d2y7MhFkKbj6u1AIhrUQ",
+      "href": "https://platform.whereismytransport.com/api/lines/b2d2y7MhFkKbj6u1AIhrUQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Canal de San Juan - Toreo",
+      "description": "COPATTSA",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "xZREH6vUaEydAau4AX1-Wg",
+      "href": "https://platform.whereismytransport.com/api/lines/xZREH6vUaEydAau4AX1-Wg",
+      "agency": {
+        "id": "GewRJAw5tUmC4Ku4AX1-SQ",
+        "href": "https://platform.whereismytransport.com/api/agencies/GewRJAw5tUmC4Ku4AX1-SQ",
+        "name": "Sendero Segura",
+        "culture": "es"
+      },
+      "name": "Casco De Santo Tomas",
+      "mode": "Bus",
+      "colour": "#ff90ee90",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "9WTx5bDo7km0q6u4AXwv4g",
+      "href": "https://platform.whereismytransport.com/api/lines/9WTx5bDo7km0q6u4AXwv4g",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Caseta De Cobro - Estadio Azteca",
+      "shortName": "131",
+      "mode": "Bus",
+      "colour": "#ffd9952c",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "MapTcEuEN0CI6au4AXww_w",
+      "href": "https://platform.whereismytransport.com/api/lines/MapTcEuEN0CI6au4AXww_w",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - La Villa/Cantera Por Palmas",
+      "shortName": "76",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "shIgSbDNoEiizau4AXwv5w",
+      "href": "https://platform.whereismytransport.com/api/lines/shIgSbDNoEiizau4AXwv5w",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - La Villa/Cantera Por Palmas (Nochebus)",
+      "shortName": "76",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "GO8qFE4tS0CJsau4AXww4w",
+      "href": "https://platform.whereismytransport.com/api/lines/GO8qFE4tS0CJsau4AXww4w",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - La Villa/Cantera Por Reforma",
+      "shortName": "76-A",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "pR_-wbVvLkyC_qu4AXwwTg",
+      "href": "https://platform.whereismytransport.com/api/lines/pR_-wbVvLkyC_qu4AXwwTg",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - La Villa/Cantera Por Reforma",
+      "shortName": "76-A-X",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "BF0wfJ0s_E2ueau4AXwwaQ",
+      "href": "https://platform.whereismytransport.com/api/lines/BF0wfJ0s_E2ueau4AXwwaQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - Metro Auditorio/Por Palmas",
+      "shortName": "76-X",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "nwBM2CYapUyr8qu4AXwwdw",
+      "href": "https://platform.whereismytransport.com/api/lines/nwBM2CYapUyr8qu4AXwwdw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - Tlacuitlapa/Puerta Grande",
+      "shortName": "9-C",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "5ZLp4K-SZEuYfau4AXwxAg",
+      "href": "https://platform.whereismytransport.com/api/lines/5ZLp4K-SZEuYfau4AXwxAg",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Centro Comercial Santa Fe - Tlacuitlapa/Puerta Grande",
+      "shortName": "9-C-X",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "TzJC0HpKZkim-qu1AIhrXg",
+      "href": "https://platform.whereismytransport.com/api/lines/TzJC0HpKZkim-qu1AIhrXg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Centro de Azcapotzalco - San Pedro Xalpa",
+      "description": "23",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "0bDBU5L1DUOzgqu4AX1-hA",
+      "href": "https://platform.whereismytransport.com/api/lines/0bDBU5L1DUOzgqu4AX1-hA",
+      "agency": {
+        "id": "GewRJAw5tUmC4Ku4AX1-SQ",
+        "href": "https://platform.whereismytransport.com/api/agencies/GewRJAw5tUmC4Ku4AX1-SQ",
+        "name": "Sendero Segura",
+        "culture": "es"
+      },
+      "name": "Chabacano CCH Azcapotzalco",
+      "mode": "Bus",
+      "colour": "#ff90ee90",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "jAWUJH8eHEiWbKu1AIhr0g",
+      "href": "https://platform.whereismytransport.com/api/lines/jAWUJH8eHEiWbKu1AIhr0g",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Chapultepec - Izcalli Conalep",
+      "description": "27",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "8cFziIfPD0O0XKu1AIhr4Q",
+      "href": "https://platform.whereismytransport.com/api/lines/8cFziIfPD0O0XKu1AIhr4Q",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Chapultepec - Jaltenco Villas de Las Flores",
+      "description": "27",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "E77WhkLwc02yYqu1AIhr5A",
+      "href": "https://platform.whereismytransport.com/api/lines/E77WhkLwc02yYqu1AIhr5A",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Chapultepec - Tequexquinahuac Parte Alta",
+      "description": "27",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "00Y3O0IZkUSVdqu1AIhr5w",
+      "href": "https://platform.whereismytransport.com/api/lines/00Y3O0IZkUSVdqu1AIhr5w",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Chapultepec - Valle Dorado",
+      "description": "2",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "DrMnuamSYkCKM6u1AIhr-A",
+      "href": "https://platform.whereismytransport.com/api/lines/DrMnuamSYkCKM6u1AIhr-A",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Chapultepec - Villas de Aragón",
+      "description": "Autobuses Corredor Aragón",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "flPodwaHQUew_Ku4AXwwMA",
+      "href": "https://platform.whereismytransport.com/api/lines/flPodwaHQUew_Ku4AXwwMA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Chimalpa - Metro Tacubaya",
+      "shortName": "110",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "7Kq2iXAEkUuXWau4AXww3Q",
+      "href": "https://platform.whereismytransport.com/api/lines/7Kq2iXAEkUuXWau4AXww3Q",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Circuito Bicentenario",
+      "shortName": "200-X",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "I9INYshyhEinHqu4AXwwzw",
+      "href": "https://platform.whereismytransport.com/api/lines/I9INYshyhEinHqu4AXwwzw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Circuito Bicentenario (Nochebus)",
+      "shortName": "200",
+      "mode": "Bus",
+      "colour": "#ffe60507",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "wS9nCj-uz0ij36u4AXaZFA",
+      "href": "https://platform.whereismytransport.com/api/lines/wS9nCj-uz0ij36u4AXaZFA",
+      "agency": {
+        "id": "JUR9bFXmVkWDHqu4AXaY0g",
+        "href": "https://platform.whereismytransport.com/api/agencies/JUR9bFXmVkWDHqu4AXaY0g",
+        "name": "Sistema de Transporte Colectivo Metro",
+        "culture": "es"
+      },
+      "name": "Ciudad Azteca - Buenavista",
+      "shortName": "B",
+      "mode": "Subway",
+      "colour": "#ff118751",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "YTI1_bcOZEOHHKu4AXwwhQ",
+      "href": "https://platform.whereismytransport.com/api/lines/YTI1_bcOZEOHHKu4AXwwhQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Buenavista - Central De Abasto",
+      "shortName": "161-D",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "PwZeY9SScEqJkKu4AXwwFA",
+      "href": "https://platform.whereismytransport.com/api/lines/PwZeY9SScEqJkKu4AXwwFA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Cocoyotes (La Brecha) - La Villa/Ferroplaza",
+      "shortName": "101-D",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "7C_LPlcrXkynO6u4AXwwSQ",
+      "href": "https://platform.whereismytransport.com/api/lines/7C_LPlcrXkynO6u4AXwwSQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Cocoyotes (La Brecha) - La Villa/Ferroplaza",
+      "shortName": "101D-X",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "xxE2WQIAA0-uhKu4AXwvrw",
+      "href": "https://platform.whereismytransport.com/api/lines/xxE2WQIAA0-uhKu4AXwvrw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Cocoyotes (La Brecha) - Metro Indios Verdes",
+      "shortName": "102",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "dxZhhmjV90CQMKu4AXwwVA",
+      "href": "https://platform.whereismytransport.com/api/lines/dxZhhmjV90CQMKu4AXwwVA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. El Tepetatal (El Charco) - Metro La Raza",
+      "shortName": "23",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "FDB0W5XaJUy79au4AXwwpw",
+      "href": "https://platform.whereismytransport.com/api/lines/FDB0W5XaJUy79au4AXwwpw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. El Tepetatal (El Charco) - Metro La Raza",
+      "shortName": "23-X",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "rowJKTymckW-MKu4AXwvaQ",
+      "href": "https://platform.whereismytransport.com/api/lines/rowJKTymckW-MKu4AXwvaQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. El Tepetatal (El Charco) - Metro Potrero",
+      "shortName": "104",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "YGfAfSlB-EeOlqu4AXwwfA",
+      "href": "https://platform.whereismytransport.com/api/lines/YGfAfSlB-EeOlqu4AXwwfA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Forestal - La Villa/Ferroplaza",
+      "shortName": "101-B",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "vNztv1G3TUahjau4AXwxEw",
+      "href": "https://platform.whereismytransport.com/api/lines/vNztv1G3TUahjau4AXwxEw",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Lomas De Cuautepec - Metro Indios Verdes",
+      "shortName": "101",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "AomR9MtV_Uaw6qu4AXwvlQ",
+      "href": "https://platform.whereismytransport.com/api/lines/AomR9MtV_Uaw6qu4AXwvlQ",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Miguel De La Madrid - Metro Zaragoza/Metro Tepalcates",
+      "shortName": "164",
+      "mode": "Bus",
+      "colour": "#ff2a948b",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "ScScc5tMZk-1F6u4AXwwJA",
+      "href": "https://platform.whereismytransport.com/api/lines/ScScc5tMZk-1F6u4AXwwJA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Col. Navidad (Las Piedras) - Metro Tacubaya",
+      "shortName": "113-B",
+      "description": "Atenea",
+      "mode": "Bus",
+      "colour": "#ffa8c731",
+      "textColour": "#ff000000"
+    },
+    {
+      "id": "GppKQh7fb0qI6Ku4AXwxEA",
+      "href": "https://platform.whereismytransport.com/api/lines/GppKQh7fb0qI6Ku4AXwxEA",
+      "agency": {
+        "id": "GtvOEQAFZ0GtU6u4AXwvPg",
+        "href": "https://platform.whereismytransport.com/api/agencies/GtvOEQAFZ0GtU6u4AXwvPg",
+        "name": "Red de Transporte de Pasajeros",
+        "culture": "es"
+      },
+      "name": "Colonia El Tepetatal (El Charco) - Metro Indios Verdes",
+      "shortName": "108",
+      "mode": "Bus",
+      "colour": "#ff332f73",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Ar9Hw4Zz5UaGUau1AIhr_A",
+      "href": "https://platform.whereismytransport.com/api/lines/Ar9Hw4Zz5UaGUau1AIhr_A",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuartos Capulín - Tlalnepantla",
+      "description": "Águilas Unidas del Valle Naucalpan and Ramales",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "yn5WF97KDkS2zau1AIhr_w",
+      "href": "https://platform.whereismytransport.com/api/lines/yn5WF97KDkS2zau1AIhr_w",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - 22 de Febrero",
+      "description": "10",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "8mKiJ6jh80eJn6u1AIhsBg",
+      "href": "https://platform.whereismytransport.com/api/lines/8mKiJ6jh80eJn6u1AIhsBg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Base La 86",
+      "description": "Autotransportes México Azcapotzalco Tlalnepantla",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "oVbKhLqgHkCiVqu1AIhsEQ",
+      "href": "https://platform.whereismytransport.com/api/lines/oVbKhLqgHkCiVqu1AIhsEQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Base La 86 via Adolfo López Mateos",
+      "description": "22",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "c-Xq4q5wuUOO76u1AIhsHQ",
+      "href": "https://platform.whereismytransport.com/api/lines/c-Xq4q5wuUOO76u1AIhsHQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Base San Martin",
+      "description": "1",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Tm70pmjOzEeDuKu1AIhsOg",
+      "href": "https://platform.whereismytransport.com/api/lines/Tm70pmjOzEeDuKu1AIhsOg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - CETRAM Buenavista",
+      "description": "D-01",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "THoG6y2jS0KMfKu1AIhsPQ",
+      "href": "https://platform.whereismytransport.com/api/lines/THoG6y2jS0KMfKu1AIhsPQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - CFE Subestación Nopala",
+      "description": "1",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "52pY_R2Wl0OqZqu1AIhsQA",
+      "href": "https://platform.whereismytransport.com/api/lines/52pY_R2Wl0OqZqu1AIhsQA",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Colegio de Bachilleres 1",
+      "description": "23",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "8Fd9hGqzpUa4uqu1AIhsSw",
+      "href": "https://platform.whereismytransport.com/api/lines/8Fd9hGqzpUa4uqu1AIhsSw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Corner Camino Viejo & Piedra Grande",
+      "description": "3",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "FjrRoLjthEeVJ6u1AIhsTw",
+      "href": "https://platform.whereismytransport.com/api/lines/FjrRoLjthEeVJ6u1AIhsTw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - El Zapote",
+      "description": "31",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Jz1GczfFXEqK-Ku1AIhsWQ",
+      "href": "https://platform.whereismytransport.com/api/lines/Jz1GczfFXEqK-Ku1AIhsWQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - FES Acatlán",
+      "description": "8",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "B1eptFhqak-eHau1AIhsZg",
+      "href": "https://platform.whereismytransport.com/api/lines/B1eptFhqak-eHau1AIhsZg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Intelomas El Olivo",
+      "description": "18",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "nTlo_5BCx0O1cKu1AIhscw",
+      "href": "https://platform.whereismytransport.com/api/lines/nTlo_5BCx0O1cKu1AIhscw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - La Joya",
+      "description": "3",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "DSESEEGtG0apzqu1AIhsfg",
+      "href": "https://platform.whereismytransport.com/api/lines/DSESEEGtG0apzqu1AIhsfg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - La Mancha III",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "7kAJ4EEn-U6tlau1AIhslA",
+      "href": "https://platform.whereismytransport.com/api/lines/7kAJ4EEn-U6tlau1AIhslA",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - La Punta",
+      "description": "11B",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "jy5DaEVmGEWthqu1AIhsmg",
+      "href": "https://platform.whereismytransport.com/api/lines/jy5DaEVmGEWthqu1AIhsmg",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Lomas de San Miguel",
+      "description": "27",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "fxUX3zP07E2Hiqu1AIhsoQ",
+      "href": "https://platform.whereismytransport.com/api/lines/fxUX3zP07E2Hiqu1AIhsoQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Lomas del Cadete",
+      "description": "12",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "Tv3IqJSpQkWYcau1AIhsrQ",
+      "href": "https://platform.whereismytransport.com/api/lines/Tv3IqJSpQkWYcau1AIhsrQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Miramar",
+      "description": "82",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "KHbIM6rtqUS5Mau1AIhsrw",
+      "href": "https://platform.whereismytransport.com/api/lines/KHbIM6rtqUS5Mau1AIhsrw",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Naucalpan El Olivo",
+      "description": "71",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "JGtb9pCVjkOEG6u1AIhsxQ",
+      "href": "https://platform.whereismytransport.com/api/lines/JGtb9pCVjkOEG6u1AIhsxQ",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Nicolás Romero",
+      "description": "22",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "2fjFsKxTokug76u1AIhs3w",
+      "href": "https://platform.whereismytransport.com/api/lines/2fjFsKxTokug76u1AIhs3w",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Palo Sólo",
+      "description": "18",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "cyw4flgZKESz6au1AIhs6g",
+      "href": "https://platform.whereismytransport.com/api/lines/cyw4flgZKESz6au1AIhs6g",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Pericentro",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    },
+    {
+      "id": "buyBS3ZpaUeo5qu1AIhs_A",
+      "href": "https://platform.whereismytransport.com/api/lines/buyBS3ZpaUeo5qu1AIhs_A",
+      "agency": {
+        "id": "IFCZKKX7-k6Z96u1AIhqQg",
+        "href": "https://platform.whereismytransport.com/api/agencies/IFCZKKX7-k6Z96u1AIhqQg",
+        "name": "Sistema de Transporte Público Concesionado",
+        "culture": "es"
+      },
+      "name": "Cuatro Caminos - Plan de Ayala",
+      "description": "12",
+      "mode": "ShareTaxi",
+      "colour": "#ffe4007c",
+      "textColour": "#ffffffff"
+    }
+  ]
