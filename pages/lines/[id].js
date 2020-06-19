@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import fetch from "node-fetch";
 import Head from "next/head";
-import {getTapiToken, getTapiLine} from '../../lib/helpers'
+import { getTapiToken, getTapiLine } from "../../lib/helpers";
 
 let tapiToken = null;
 
@@ -22,12 +22,12 @@ const Line = (props) => {
           name="description"
           content="Your one stop shop for transport data!"
         ></meta>
-        <meta property="og:title" content="TAPI Data" />
+        <meta property="og:title" content={line.agency.name} />
         <meta
           property="og:url"
           content={`http://trewartha.za.net/lines/${id}`}
         />
-        <meta property="og:description" content="This is meow"></meta>
+        <meta property="og:description" content={`Transport line ${props.line.name}`}></meta>
         <meta
           property="og:image"
           content="https://pbs.twimg.com/profile_images/765843200691019776/WB3R_p3__400x400.jpg"
@@ -35,20 +35,30 @@ const Line = (props) => {
       </Head>
       <div className="card">
         <h2>{line.agency.name}</h2>
-        <p><b>ID:</b> {id}</p>
-        <p><b>Name:</b> {props.line.name}</p>
-        <p><b>Shortname:</b> {props.line.shortName}</p>
-        <p><b>Mode:</b> {props.line.mode}</p>
-        <p><b>Device ID:</b> {pid}</p>
-        <p><b>Time:</b> {props.timeData.datetime}</p>
+        <p>
+          <b>ID:</b> {id}
+        </p>
+        <p>
+          <b>Name:</b> {props.line.name}
+        </p>
+        <p>
+          <b>Shortname:</b> {props.line.shortName}
+        </p>
+        <p>
+          <b>Mode:</b> {props.line.mode}
+        </p>
+        <p>
+          <b>Device ID:</b> {pid}
+        </p>
+        <p>
+          <b>Time:</b> {props.timeData.datetime}
+        </p>
       </div>
 
-      <div className="footer"></div>
-
       <style jsx>{`
-         h2 {
-           text-align: center;
-         }
+        h2 {
+          text-align: center;
+        }
         .container {
           min-height: 100vh;
           padding: 0 0.5rem;
@@ -60,10 +70,11 @@ const Line = (props) => {
 
         .card {
           padding: 1rem;
-          border: 3px solid #4F5457;
+          border: 3px solid #4f5457;
           border-radius: 10px;
           background: ${lineColour};
         }
+
       `}</style>
     </div>
   );
@@ -82,7 +93,7 @@ export async function getServerSideProps(context) {
     console.log("has valid token");
   }
   if (!dictionary[lineId]) {
-    const line = await getTapiLine(lineId);
+    const line = await getTapiLine(lineId, tapiToken);
     dictionary[lineId] = line;
   } else {
     console.log("cache hit");
