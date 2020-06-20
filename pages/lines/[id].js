@@ -67,7 +67,7 @@ const Line = (props) => {
           text-align: center;
         }
         .container {
-          min-height: 100vh;
+          min-height: 85vh;
           padding: 0 0.5rem;
           display: flex;
           flex-direction: column;
