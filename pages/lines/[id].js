@@ -1,7 +1,9 @@
 import { useRouter } from "next/router";
 import fetch from "node-fetch";
 import Head from "next/head";
+import Link from "next/link";
 import { getTapiLine } from "../../lib/helpers";
+import { pickTextColorBasedOnBgColorSimple } from "../../lib/color-helper";
 
 const dictionary = {};
 
@@ -9,7 +11,9 @@ const Line = (props) => {
   const router = useRouter();
   const { id, pid } = router.query;
   const line = props.line;
-  const lineColour = `#${line.colour.substring(3, 9)}`
+  const lineColour = `#${line.colour.substring(3, 9)}`;
+  const tapiTextColour = `#${line.textColour.substring(3, 9)}`;
+  const betterColor = pickTextColorBasedOnBgColorSimple(lineColour, '#FFFFFF', '#000000');
 
   return (
     <div className="container">
@@ -31,6 +35,7 @@ const Line = (props) => {
           content="https://pbs.twimg.com/profile_images/765843200691019776/WB3R_p3__400x400.jpg"
         ></meta>
       </Head>
+      <a href="/lines">← Back to search</a>
       <div className="card">
         <h2>{line.agency.name}</h2>
         <p>
@@ -64,6 +69,11 @@ const Line = (props) => {
         h2 {
           text-align: center;
         }
+
+        a {
+          font-size: 22px;
+          color: #0379A8;
+        }
         .container {
           min-height: 85vh;
           padding: 0 0.5rem;
@@ -74,10 +84,12 @@ const Line = (props) => {
         }
 
         .card {
+          margin-top: 1rem;
           padding: 1rem;
           border: 3px solid #4f5457;
           border-radius: 10px;
           background: ${lineColour};
+          color: ${betterColor};
         }
 
         body {
