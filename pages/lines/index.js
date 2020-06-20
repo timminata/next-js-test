@@ -1,10 +1,19 @@
 import Head from "next/head";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { getTapiLinesByName } from "../../lib/helpers";
 
 const LinesHome = (props) => {
-  //const router = useRouter();
   const [text, setText] = useState("");
+  const [lines, setLines] = useState([]);
+  useEffect(() => {
+    async function fetchData() {
+      const lines = await getTapiLinesByName(text);
+      console.log(lines);
+      setLines(lines);
+    }
+    fetchData();
+  }, [text]);
   return (
     <div className="container">
       <Head>
@@ -30,6 +39,12 @@ const LinesHome = (props) => {
 
       <input value={text} onChange={(e) => setText(e.target.value)}></input>
 
+      {lines.map((line, idx) => (
+        <a key={idx} href={`lines/${line.id}`}>
+          {line.name}
+        </a>
+      ))}
+
       <footer>
         <svg
           viewBox="0 -20 700 110"
@@ -52,6 +67,7 @@ const LinesHome = (props) => {
       <style jsx>{`
         h2 {
           text-align: center;
+          margin-top: 8rem;
         }
 
         input {
@@ -59,6 +75,7 @@ const LinesHome = (props) => {
           border: 2px solid #70787b;
           font-size: larger;
           width: 25%;
+          margin-bottom: 1rem;
         }
 
         .container {
@@ -66,7 +83,6 @@ const LinesHome = (props) => {
           padding: 0 0.5rem;
           display: flex;
           flex-direction: column;
-          justify-content: center;
           align-items: center;
         }
 
