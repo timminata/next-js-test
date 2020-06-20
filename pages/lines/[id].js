@@ -1,9 +1,7 @@
 import { useRouter } from "next/router";
 import fetch from "node-fetch";
 import Head from "next/head";
-import { getTapiToken, getTapiLine } from "../../lib/helpers";
-
-let tapiToken = null;
+import { getTapiLine } from "../../lib/helpers";
 
 const dictionary = {};
 
@@ -11,7 +9,7 @@ const Line = (props) => {
   const router = useRouter();
   const { id, pid } = router.query;
   const line = props.line;
-  const lineColour = line.colour;
+  const lineColour = `#${line.colour.substring(3, 9)}`
 
   return (
     <div className="container">
@@ -104,18 +102,10 @@ export async function getServerSideProps(context) {
   const timeData = await result.json();
   const lineId = context.query.id;
 
-  if (tapiToken == null) {
-    const token = await getTapiToken();
-    tapiToken = token;
-  } else {
-    console.log("has valid token");
-  }
   if (!dictionary[lineId]) {
-    const line = await getTapiLine(lineId, tapiToken);
+    const line = await getTapiLine(lineId);
     dictionary[lineId] = line;
-  } else {
-    console.log("cache hit");
-  }
+  } 
   //const line = await getTapiLineName('T9htbUaZakysEKu4AXlQeg');
   const line = dictionary[lineId];
 
