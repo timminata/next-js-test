@@ -74,7 +74,7 @@ const LinesHome = (props) => {
           padding: 0.5em;
           border: 2px solid #70787b;
           font-size: larger;
-          width: 25%;
+          width: 300px;
           margin-bottom: 1rem;
         }
 
