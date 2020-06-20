@@ -55,6 +55,13 @@ const Line = (props) => {
         </p>
       </div>
 
+      <footer>
+  <svg viewBox="0 -20 700 110" width="100%" height="110" preserveAspectRatio="none">
+    <path transform="translate(0, -20)" d="M0,10 c80,-22 240,0 350,18 c90,17 260,7.5 350,-20 v50 h-700" fill="#CEB964" />
+    <path d="M0,10 c80,-18 230,-12 350,7 c80,13 260,17 350,-5 v100 h-700z" fill="#E6E7E9" />
+  </svg>
+</footer>
+
       <style jsx>{`
         h2 {
           text-align: center;
@@ -73,6 +80,17 @@ const Line = (props) => {
           border: 3px solid #4f5457;
           border-radius: 10px;
           background: ${lineColour};
+        }
+
+        body {
+          margin: 0;
+        }
+        footer {
+          position: absolute;
+          width: 100%;
+          height: 100px;
+          bottom: 0;
+          overflow: hidden;
         }
 
       `}</style>
