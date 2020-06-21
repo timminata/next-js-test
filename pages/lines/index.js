@@ -1,19 +1,14 @@
 import Head from "next/head";
 import Link from "next/link";
 import { useState, useEffect } from "react";
-import { getTapiLinesByName } from "../../lib/helpers";
+import { getTapiLinesByName, getAllLines } from "../../lib/helpers";
 
 const LinesHome = (props) => {
   const [text, setText] = useState("");
   const [lines, setLines] = useState([]);
-  useEffect(() => {
-    async function fetchData() {
-      const lines = await getTapiLinesByName(text);
-      console.log(lines);
-      setLines(lines);
-    }
-    fetchData();
-  }, [text]);
+
+  const linesToShow = props.allLines.filter(x => x.name.includes(text)).slice(0, 5);
+
   return (
     <div className="container">
       <Head>
@@ -39,7 +34,7 @@ const LinesHome = (props) => {
 
       <input value={text} onChange={(e) => setText(e.target.value)}></input>
 
-      {lines.map((line, idx) => (
+      {linesToShow.map((line, idx) => (
         <a key={idx} href={`lines/${line.id}`}>
           {line.name}
         </a>
@@ -98,9 +93,16 @@ const LinesHome = (props) => {
   );
 };
 
+let allLines = [];
+
 export async function getServerSideProps(context) {
+  if (allLines.length === 0) {
+    console.log(allLines.length);
+    allLines = await getAllLines();
+  }
+  
   return {
-    props: {}, // will be passed to the page component as props
+    props: { allLines }, // will be passed to the page component as props
   };
 }
 
